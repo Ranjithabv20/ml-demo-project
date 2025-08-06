@@ -10,3 +10,7 @@ I'm trying to create one demo project in ML and connect with GIT.
 ## ML Model used
 
 -The dataset is experimented with Decision tree, Logistics, and Random Forest.
+
+## Prediction
+
+-We madr prediction on Target features which tells us whether HCP did fraud or not.
